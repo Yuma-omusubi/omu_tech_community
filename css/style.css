@@ -145,6 +145,24 @@ header {
   margin: 1px auto;
 }
 
+.detail-button{
+  
+  width: 150px;
+  height: 32px;
+  color:#FFF;
+  background-color: #74BFBC;
+  margin-top: 32px;
+  border:none;
+  border-radius: 5px; 
+}
+
+.detail-button:hover {
+  
+  color: #74BFBC;
+  background: #fff;
+  
+}
+
 footer {
   background-color: #818181;
   height: 100px;
